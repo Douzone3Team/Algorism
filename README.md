@@ -51,8 +51,8 @@
     
 | 월/일 | 문제                           | 풀이 링크 | 문제 분류 |
 | ----------- | ---------------------- | ---------------------- | ------------------------------------|
-| 03/28      |[2178 미로탐색](https://www.acmicpc.net/problem/2178) | | 그래프 탐색 |
-| 03/29      |[4963 섬의 개수](https://www.acmicpc.net/problem/4963) | | 그래프 탐색 |
+| 03/28      |[2178 미로탐색](https://www.acmicpc.net/problem/2178) | [220328](https://github.com/Douzone3Team/Algorism/tree/main/220328) | 그래프 탐색 |
+| 03/29      |[4963 섬의 개수](https://www.acmicpc.net/problem/4963) | [220329](https://github.com/Douzone3Team/Algorism/tree/main/220329) | 그래프 탐색 |
 | 03/30      | | | |
 | 03/31      | | | |
 | 04/01      | | | |
