@@ -1,1 +1,71 @@
-# Algorism
+# Algorithm
+커밋명에 본인 이니셜 쓰시면 팀장님이 pdf 작성하실때 편할거 같아요~
+# 3월
+
+<details>
+  <summary>
+    <STRONG>
+     🗃 3주차 문제
+    </STRONG>
+  </summary>
+     <br/>
+ <div markdown="1">
+    
+| 월/일 | 문제                           | 풀이 링크 | 문제 분류 |
+| ----------- | ---------------------- | ---------------------- | ------------------------------------|
+| 03/14      | [1439_뒤집기](https://www.acmicpc.net/problem/1439)       | [220314](https://github.com/bong8230/Algorithm/tree/main/220314)| 그리디 |
+| 03/15      | [1026_보물](https://www.acmicpc.net/problem/1026)       | [220315](https://github.com/bong8230/Algorithm/tree/main/220315)| 그리디 |
+| 03/16      | [2810_컵홀더](https://www.acmicpc.net/problem/2810)       | [220316](https://github.com/bong8230/Algorithm/tree/main/220316)| 그리디 |
+| 03/17      | [2217_로프](https://www.acmicpc.net/problem/2217)       | [220317](https://github.com/bong8230/Algorithm/tree/main/220317)| 그리디 |
+| 03/18      | [1789_수들의합](https://www.acmicpc.net/problem/1789)       | [220318](https://github.com/bong8230/Algorithm/tree/main/220318)| 그리디 |
+ </div>
+</details>
+  
+
+  <summary>
+    <STRONG>
+     🗃 4주차 문제
+    </STRONG>
+  </summary>
+     <br/>
+ <div markdown="1">
+    
+| 월/일 | 문제                           | 풀이 링크 | 문제 분류 |
+| ----------- | ---------------------- | ---------------------- | ------------------------------------|
+| 03/21      |[1260_DFS와 BFS](https://www.acmicpc.net/problem/1260) | [220321](https://github.com/bong8230/Algorithm/tree/main/220321) | 그래프 탐색 |
+| 03/22      |[2606_바이러스](https://www.acmicpc.net/problem/2606) | [220322](https://github.com/bong8230/Algorithm/tree/main/220322) | 그래프탐색 |
+| 03/23      |[1427_소트인사이드](https://www.acmicpc.net/problem/1427) | [220323](https://github.com/bong8230/Algorithm/tree/main/220323) | 정렬 |
+| 03/24      |[2776_암기왕](https://www.acmicpc.net/problem/2776) | [220324](https://github.com/bong8230/Algorithm/tree/main/220324) | 그래프 탐색 |
+| 03/25      |[1654 랜선 자르기](https://www.acmicpc.net/problem/1654) | [220325](https://github.com/bong8230/Algorithm/tree/main/220325) | 그래프 탐색 |
+ </div>
+
+   
+ <details>
+  <summary>
+    <STRONG>
+     🗃 5주차 문제
+    </STRONG>
+  </summary>
+     <br/> 
+  <div markdown="1">
+    
+| 월/일 | 문제                           | 풀이 링크 | 문제 분류 |
+| ----------- | ---------------------- | ---------------------- | ------------------------------------|
+| 03/28      | | | |
+| 03/29      | | | |
+| 03/30      | | | |
+| 03/31      | | | |
+| 04/01      | | | |
+ </div>
+ </details>
+
+# 4월
+ <details>
+  <summary>
+    <STRONG>
+     🗃 1주차 문제
+    </STRONG>
+  </summary>
+     <br/> 
+ </details>
+ 
