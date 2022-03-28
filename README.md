@@ -16,8 +16,8 @@
 | 03/14      | [1439_뒤집기](https://www.acmicpc.net/problem/1439) | [220314](https://github.com/bong8230/Algorithm/tree/main/220314)| 그리디 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" class="solvedac-tier">|
 | 03/15      | [1026_보물](https://www.acmicpc.net/problem/1026)       | [220315](https://github.com/bong8230/Algorithm/tree/main/220315)| 그리디 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier">|
 | 03/16      | [2810_컵홀더](https://www.acmicpc.net/problem/2810)       | [220316](https://github.com/bong8230/Algorithm/tree/main/220316)| 그리디 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" class="solvedac-tier">|
-| 03/17      | [2217_로프](https://www.acmicpc.net/problem/2217)       | [220317](https://github.com/bong8230/Algorithm/tree/main/220317)| 그리디 |  |
-| 03/18      | [1789_수들의합](https://www.acmicpc.net/problem/1789)| [220318](https://github.com/bong8230/Algorithm/tree/main/220318)| 그리디 |  |
+| 03/17      | [2217_로프](https://www.acmicpc.net/problem/2217)       | [220317](https://github.com/bong8230/Algorithm/tree/main/220317)| 그리디 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" class="solvedac-tier">|
+| 03/18      | [1789_수들의합](https://www.acmicpc.net/problem/1789)| [220318](https://github.com/bong8230/Algorithm/tree/main/220318)| 그리디 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" class="solvedac-tier">|
  </div>
 </details>
   
