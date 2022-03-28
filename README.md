@@ -53,7 +53,7 @@
 | ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
 | 03/28      |[2178 미로탐색](https://www.acmicpc.net/problem/2178) | [220328](https://github.com/Douzone3Team/Algorism/tree/main/220328) | 그래프 탐색 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier">|
 | 03/29      |[4963 섬의 개수](https://www.acmicpc.net/problem/4963) | [220329](https://github.com/Douzone3Team/Algorism/tree/main/220329) | 그래프 탐색 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier">|
-| 03/30      | | | |
+| 03/30      | 문제 | 추천 | 받습니다 | |
 | 03/31      | | | |
 | 04/01      | | | |
  </div>
