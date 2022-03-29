@@ -51,11 +51,11 @@
     
 | 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 |
 | ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
-| 03/28      |[2178 미로탐색](https://www.acmicpc.net/problem/2178) | [220328](https://github.com/Douzone3Team/Algorism/tree/main/220328) | 그래프 탐색 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier">|
+| 03/28      |[2178 미로탐색](https://www.acmicpc.net/problem/2178) | [220328](https://github.com/Douzone3Team/Algorism/tree/main/220328) | 그래프 탐색 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier">|
 | 03/29      |[4963 섬의 개수](https://www.acmicpc.net/problem/4963) | [220329](https://github.com/Douzone3Team/Algorism/tree/main/220329) | 그래프 탐색 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier">|
-| 03/30      | 문제 | 추천 | 받습니다 | ㅠㅠ |
-| 03/31      | | | | |
-| 04/01      | | | | |
+| 03/30      |[14716 현수막](https://www.acmicpc.net/problem/14716)| [220330](https://github.com/Douzone3Team/Algorism/tree/main/220330)| 그래프 탐색 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier">|
+| 03/31      |[2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[220331](https://github.com/Douzone3Team/Algorism/tree/main/220331)| 그래프 탐색 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier"> |
+| 04/01      |[7569 토마토](https://www.acmicpc.net/problem/7569)|[220401](https://github.com/Douzone3Team/Algorism/tree/main/220330)| 그래프 탐색 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier">|
  </div>
  
 
