@@ -14,7 +14,7 @@ class Home {
 
 class JEL_2667 {
 	static int[] dx = { -1, 1, 0, 0 };
-    static int[] dy = { 0, 0, -1, 1 };
+   	static int[] dy = { 0, 0, -1, 1 };
 	static ArrayList<Integer> res = new ArrayList<Integer>();
 	static int N, cnt, mark = 1;
 	static int[][] num;
