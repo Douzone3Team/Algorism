@@ -55,7 +55,7 @@
 | 03/29      |[4963 섬의 개수](https://www.acmicpc.net/problem/4963) | [220329](https://github.com/Douzone3Team/Algorism/tree/main/220329) | 그래프 탐색 | <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/9.svg">|
 | 03/30      |[14716 현수막](https://www.acmicpc.net/problem/14716)| [220330](https://github.com/Douzone3Team/Algorism/tree/main/220330)| 그래프 탐색 | <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg">|
 | 03/31      |[2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[220331](https://github.com/Douzone3Team/Algorism/tree/main/220331)| 그래프 탐색 | <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg" > |
-| 04/01      |[7569 토마토](https://www.acmicpc.net/problem/7569)|[220401](https://github.com/Douzone3Team/Algorism/tree/main/220330)| 그래프 탐색 | <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/11.svg">|
+| 04/01      |[7569 토마토](https://www.acmicpc.net/problem/7569)|[220401](https://github.com/Douzone3Team/Algorism/tree/main/220401)| 그래프 탐색 | <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/11.svg">|
  </div>
  
 
