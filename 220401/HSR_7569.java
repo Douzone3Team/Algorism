@@ -31,7 +31,6 @@ public class HSR_7569 {
                 for (int k = 0; k < N; k++) {
                     map[i][j][k] = note[k];
                     if(map[i][j][k] == 1 ){ // 사과가 있을시 큐에 추가( 큐를 기준으로 익은 날짜 증가 )
-
                         q.add(new int[]{i,j,k});
                     }
 
