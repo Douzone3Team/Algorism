@@ -40,7 +40,7 @@
  </div>
 </details>
    
- 
+ <details>
   <summary>
     <STRONG>
      🗃 5주차 문제
@@ -57,15 +57,25 @@
 | 03/31      |[2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[220331](https://github.com/Douzone3Team/Algorism/tree/main/220331)| 그래프 탐색 | <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg" > |
 | 04/01      |[7569 토마토](https://www.acmicpc.net/problem/7569)|[220401](https://github.com/Douzone3Team/Algorism/tree/main/220401)| 그래프 탐색 | <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/11.svg">|
  </div>
- 
+</details>
 
 # 4월
- <details>
+ 
   <summary>
     <STRONG>
      🗃 1주차 문제
     </STRONG>
   </summary>
      <br/> 
- </details>
+  <div markdown="1">
+    
+| 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 |
+| ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
+| 04/04     |||| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg">|
+| 04/05      |||| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/9.svg">|
+| 04/06      |||| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg">|
+| 04/07      |||| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg" > |
+| 04/08      |||| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/11.svg">|
+ </div>
+
  
