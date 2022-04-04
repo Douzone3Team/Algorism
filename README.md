@@ -71,11 +71,11 @@
     
 | 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 |
 | ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
-| 04/04     |||| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg">|
-| 04/05      |||| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/9.svg">|
-| 04/06      |||| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg">|
-| 04/07      |||| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg" > |
-| 04/08      |||| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/11.svg">|
+| 04/04     |[7568 덩치](https://www.acmicpc.net/problem/7568)|[220404]|브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg">|
+| 04/05      |||브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/9.svg">|
+| 04/06      |||브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg">|
+| 04/07      |||브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg" > |
+| 04/08      |||브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/11.svg">|
  </div>
 
  
