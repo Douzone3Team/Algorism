@@ -73,8 +73,8 @@
 | ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
 | 04/04     |[7568 덩치](https://www.acmicpc.net/problem/7568)|[220404](https://github.com/Douzone3Team/Algorism/tree/main/220404)|브루트포스|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/6.svg">|
 | 04/05      |[10819 차이를 최대로](https://www.acmicpc.net/problem/10819)|[220405](https://github.com/Douzone3Team/Algorism/tree/main/220405)|브루트포스|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/9.svg">|
-| 04/06      |||브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg">|
-| 04/07      |||브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg" > |
+| 04/06      |[1120 문자열](https://www.acmicpc.net/problem/1120)|[220406](https://github.com/Douzone3Team/Algorism/tree/main/220406)|브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg">|
+| 04/07      |[4673 셀프넘버](https://www.acmicpc.net/problem/4673)|[220407](https://github.com/Douzone3Team/Algorism/tree/main/220407)|브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/10.svg" > |
 | 04/08      |||브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/11.svg">|
  </div>
 
