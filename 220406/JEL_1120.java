@@ -3,10 +3,9 @@ import java.util.*;
 public class JEL_1120 {
 
     public static void main(String [] args){
-        Scanner scanner = new Scanner(System.in);
-
-        String a = scanner.next();
-        String b = scanner.next();
+        Scanner sc = new Scanner(System.in);
+        String a = sc.next();
+        String b = sc.next();
 
         int result = a.length();
 
@@ -15,7 +14,7 @@ public class JEL_1120 {
 
             for(int j=0;j<a.length();j++){
                 if(a.charAt(j)!=b.charAt(j+i)){
-                    tmp++;
+                    tmp++;f
                 }
             }
             if(result > tmp){
