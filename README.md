@@ -91,7 +91,7 @@
 | 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 |
 | ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
 | 04/11     |[10799 쇠막대기](https://www.acmicpc.net/problem/10799)|[220411](https://github.com/Douzone3Team/Algorism/tree/main/220411)|자료구조|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/8.svg">|
-| 04/12      |[23757 아이들과 선물 상자](https://www.acmicpc.net/problem/23757)|[220412]|(https://github.com/Douzone3Team/Algorism/tree/main/220412)||<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/9.svg">|
+| 04/12      |[23757 아이들과 선물 상자](https://www.acmicpc.net/problem/23757)|[220412](https://github.com/Douzone3Team/Algorism/tree/main/220412)|자료구조||<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/9.svg">|
 | 04/13      |||||
 | 04/14      |||||
 | 04/15      |||||
