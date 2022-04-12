@@ -60,7 +60,7 @@
 </details>
 
 # 4월
- 
+ <details>
   <summary>
     <STRONG>
      🗃 1주차 문제
@@ -77,5 +77,25 @@
 | 04/07      |[4673 셀프넘버](https://www.acmicpc.net/problem/4673)|[220407](https://github.com/Douzone3Team/Algorism/tree/main/220407)|브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/6.svg" > |
 | 04/08      |[21278 호석이 두마리 치킨](https://www.acmicpc.net/problem/21278)|[220408](https://github.com/Douzone3Team/Algorism/tree/main/220408)|브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/11.svg">|
  </div>
+</details>
+
+<details>
+  <summary>
+    <STRONG>
+     🗃 2주차 문제
+    </STRONG>
+  </summary>
+     <br/> 
+  <div markdown="1">
+    
+| 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 |
+| ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
+| 04/04     |[7568 덩치](https://www.acmicpc.net/problem/7568)|[220404](https://github.com/Douzone3Team/Algorism/tree/main/220404)|브루트포스|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/6.svg">|
+| 04/05      |[10819 차이를 최대로](https://www.acmicpc.net/problem/10819)|[220405](https://github.com/Douzone3Team/Algorism/tree/main/220405)|브루트포스|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/9.svg">|
+| 04/06      |[1120 문자열](https://www.acmicpc.net/problem/1120)|[220406](https://github.com/Douzone3Team/Algorism/tree/main/220406)|브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/7.svg">|
+| 04/07      |[4673 셀프넘버](https://www.acmicpc.net/problem/4673)|[220407](https://github.com/Douzone3Team/Algorism/tree/main/220407)|브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/6.svg" > |
+| 04/08      |[21278 호석이 두마리 치킨](https://www.acmicpc.net/problem/21278)|[220408](https://github.com/Douzone3Team/Algorism/tree/main/220408)|브루트포스| <img src="https://github.com/Douzone3Team/Algorism/blob/main/img/11.svg">|
+ </div>
+</details>
 
  
