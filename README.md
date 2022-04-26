@@ -98,7 +98,6 @@
  </div>
 </details>
 
-<details>
   <summary>
     <STRONG>
      🗃 2주차 문제
@@ -115,4 +114,3 @@
 ||||||
 ||||||
  </div>
-<details>
