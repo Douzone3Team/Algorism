@@ -79,7 +79,7 @@
  </div>
 </details>
 
-
+<details>
   <summary>
     <STRONG>
      🗃 2주차 문제
@@ -96,6 +96,25 @@
 | 04/14      |[3986 좋은단어](https://www.acmicpc.net/problem/3986)|[220414](https://github.com/Douzone3Team/Algorism/tree/main/220414)|자료구조|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/7.svg">|
 | 04/15      |[12605 단어순서 뒤집기](https://www.acmicpc.net/problem/12605)|[220415](https://github.com/Douzone3Team/Algorism/tree/main/220415)|자료구조|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/5.svg">|
  </div>
+</details>
+
+<details>
+  <summary>
+    <STRONG>
+     🗃 2주차 문제
+    </STRONG>
+  </summary>
+     <br/> 
+  <div markdown="1">
+    
+| 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 |
+| ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
 
 
- 
+| 04/15      |[12605 단어순서 뒤집기](https://www.acmicpc.net/problem/12605)|[220415](https://github.com/Douzone3Team/Algorism/tree/main/220415)|자료구조|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/5.svg">|
+||||||
+||||||
+||||||
+||||||
+ </div>
+<details>
