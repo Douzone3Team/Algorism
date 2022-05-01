@@ -111,6 +111,6 @@
 | 04/26      |[12605 단어순서 뒤집기](https://www.acmicpc.net/problem/12605)|[220426](https://github.com/Douzone3Team/Algorism/tree/main/220426)|자료구조|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/5.svg">|
 | 04/27      |[12605 스타트와 링크](https://www.acmicpc.net/problem/14889)|[220427](https://github.com/Douzone3Team/Algorism/tree/main/220427)|브루트포스|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/9.svg">|
 | 04/28      |[1475 방 번호](https://www.acmicpc.net/problem/1475)|[220428](https://github.com/Douzone3Team/Algorism/tree/main/220428)|구현|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/6.svg">|
-| 04/29      |[15649 N 과 M (1)](https://www.acmicpc.net/problem/15649)|[220428](https://github.com/Douzone3Team/Algorism/tree/main/220428)|백트래킹|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/8.svg">|
+| 04/29      |[15649 N 과 M (1)](https://www.acmicpc.net/problem/15649)|[220429](https://github.com/Douzone3Team/Algorism/tree/main/220429)|백트래킹|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/8.svg">|
 ||||||
  </div>
