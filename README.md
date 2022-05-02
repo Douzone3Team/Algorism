@@ -98,6 +98,7 @@
  </div>
 </details>
 
+<details>
   <summary>
     <STRONG>
      🗃 4주차 문제
@@ -114,3 +115,20 @@
 | 04/29      |[15649 N 과 M (1)](https://www.acmicpc.net/problem/15649)|[220429](https://github.com/Douzone3Team/Algorism/tree/main/220429)|백트래킹|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/8.svg">|
 ||||||
  </div>
+</details>
+
+<details>
+  <summary>
+    <STRONG>
+     🗃 4주차 문제
+    </STRONG>
+  </summary>
+     <br/> 
+  <div markdown="1">
+    
+| 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 |
+| ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
+| 05/02      |[15649 N 과 M (2)](https://www.acmicpc.net/problem/15650)|[220502](https://github.com/Douzone3Team/Algorism/tree/main/220502)|백트래킹|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/8.svg">|
+||||||
+ </div>
+</details>
