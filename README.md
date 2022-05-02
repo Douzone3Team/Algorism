@@ -118,7 +118,7 @@
 </details>
 
 # 5월
-<details>
+
   <summary>
     <STRONG>
      🗃 1주차 문제
@@ -129,7 +129,7 @@
     
 | 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 |
 | ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
-| 05/02      |[15649 N 과 M (2)](https://www.acmicpc.net/problem/15650)|[220502](https://github.com/Douzone3Team/Algorism/tree/main/220502)|백트래킹|<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/8.svg">|
+| 05/02      |[1244 최대상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&problemLevel=2&problemLevel=3&contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=3)|[220502](https://github.com/Douzone3Team/Algorism/tree/main/220502)||D3|
 ||||||
  </div>
-</details>
+
