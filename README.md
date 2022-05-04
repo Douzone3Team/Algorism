@@ -129,7 +129,8 @@
     
 | 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 |
 | ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
-| 05/02      |[1244 최대상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&problemLevel=2&problemLevel=3&contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=3)|[220502](https://github.com/Douzone3Team/Algorism/tree/main/220502)|백트래킹|D3|
+| 05/02      |[1204 최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE&problemTitle=S%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=3)|[220502](https://github.com/Douzone3Team/Algorism/tree/main/220502)|?|D2|
+| 05/03      |[1206 View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=S%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0+%EA%B8%B0%EB%B3%B8&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=3)|[220503](https://github.com/Douzone3Team/Algorism/tree/main/220502)|?|D2|
 ||||||
  </div>
 
