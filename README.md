@@ -11,7 +11,7 @@
      <br/>
  <div markdown="1">
     
-| 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 |
+| 월/일 | 문제                           | 풀이 링크 | 문제 분류 | 난이도 | 참고 |
 | ----------- | ---------------------- | ---------------------- | ------------------------------------| ---- |
 | 03/14      | [1439_뒤집기](https://www.acmicpc.net/problem/1439) | [220314](https://github.com/bong8230/Algorithm/tree/main/220314)| 그리디 |<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/6.svg">|
 | 03/15      | [1026_보물](https://www.acmicpc.net/problem/1026)       | [220315](https://github.com/bong8230/Algorithm/tree/main/220315)| 그리디 |<img src="https://github.com/Douzone3Team/Algorism/blob/main/img/7.svg">|
