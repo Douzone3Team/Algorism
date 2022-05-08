@@ -11,7 +11,7 @@ public class HSR_1206 {
         StringTokenizer st;
         StringBuilder sb = new StringBuilder();
         int t = 10;
-        for (int tt = 1; tt <= t; tt++) {
+        for (int tt = 1; tt <= t; tt++) {z
             int n = Integer.parseInt(br.readLine());
             int[] info = new int[n];
             st = new StringTokenizer(br.readLine());
@@ -33,7 +33,7 @@ public class HSR_1206 {
                     next_h = Math.max(next_h, info[i + j]);
                     next_h = Math.max(next_h, info[i - j]);
                 }
-                if (info[i] <= next_h) { 
+                if (info[i] <= next_h) {
                     continue;
                 }
                 res += info[i] - next_h;
