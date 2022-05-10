@@ -1,75 +1,65 @@
-import java.util.Arrays;
-import java.util.Scanner;
- 
-public class Solution {
- 
-    //main 메소드
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int[][] map = new int[100][100];
-         
-        for(int t=0; t<10; t++) { //10개 테스트케이스
-            int tNum = sc.nextInt();
-            for(int i=0; i<map.length; i++)
-                for(int j=0; j<map[0].length; j++)
-                    map[i][j] = sc.nextInt();
-            System.out.println("#"+tNum+" "+ladder(map));
-        }
-    }
-     
-    //사다리타기~
-    public static int ladder(int[][] map) {
-        int[][] trace = new int[100][100];
-                 
-        for(int x=0; x<map[0].length; x++) {//출발점
-            int i=0; int j=x; //행,열 인덱스
-            if(map[0][x]==1) {
-                for(int a=0; a<trace.length; a++)
-                    Arrays.fill(trace[a], 0);
-                trace[0][x]=1;
-                 
-                while(i<map.length-1) { //바닥까지 go
-                    //맨 왼쪽길일 때 (오른쪽 길만 체크)
-                    if(j==0) {
-                        if(map[i][j+1]==1 && trace[i][j+1]==0) {
-                            j++;
-                            trace[i][j]=1;
-                            continue;
-                        }
-                    }
-                    //맨 오른쪽길일 때 (왼쪽 길만 체크)
-                    else if(j==map[0].length-1) {
-                        if(map[i][j-1]==1 && trace[i][j-1]==0) {
-                            j--;
-                            trace[i][j]=1;
-                            continue;
-                        }
-                    }
-                    //***중간 길일 때(오른쪽, 왼쪽 길 모두 체크) (왔던 곳은 다시 가면 안 됨!)
-                    else {             
-                        if(map[i][j+1]==1 && trace[i][j+1]==0) {
-                            j++;
-                            trace[i][j]=1;
-                            continue;
-                        }
-                        else if(map[i][j-1]==1 && trace[i][j-1]==0) {
-                            j--;
-                            trace[i][j]=1;
-                            continue;
-                        }  
-                    }
-                     
-                    //왼쪽, 오른쪽 갈 경우를 제외하면 모두 아래로 go!
-                    i++;
-                    trace[i][j]=1;
-                 
-                }
-                 
-            }
-            if(map[i][j]==2) return x; //사다리 걸렸다!
-        }
-         
-        return 100;
-    }
- 
+package algorism;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class UCR_1210 {
+	public static void main(String[] args) throws Exception{
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int[][] arr = new int[100][100];
+		int x = 0;
+
+
+		for(int test =0; test<10; test++) {
+			int t = Integer.parseInt(br.readLine());
+
+			for(int i=0; i<100; i++) {
+				StringTokenizer st = new StringTokenizer(br.readLine());
+				for(int j=0; j<100; j++) {
+					arr[i][j] = Integer.parseInt(st.nextToken());
+					// 도착점 위치
+					if(arr[i][j] == 2) {
+						x = j;
+					}
+				}
+			}
+
+			int i = 98;
+			boolean left = true; // 왼쪽으로 갈 수 있는지
+			boolean right = true; // 오른쪽으로 갈 수 있는지
+			while(true) {
+				// 목적지 도달
+				if(i == 0) {
+					break;
+				}
+
+				if (x>0) {
+					// 왼쪽이 연결되어있으면
+					if (arr[i][x-1] == 1 && left) {
+						x--;
+						right = false;
+						continue;
+					}
+				}
+
+				if(x<99) {
+					// 오른쪽이 연결되어있으면
+					if (arr[i][x+1] == 1 && right) {
+						x++;
+						left = false;
+						continue;
+					}
+				}
+
+				// 둘다 연결되어 있지 않다면
+				i--;
+				right = true;
+				left = true;
+			}
+			System.out.println("#"+t+" "+x);
+		}
+
+		br.close();
+	}
 }
