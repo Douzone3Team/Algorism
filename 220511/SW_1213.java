@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class SW_1213 { 
-	static String test, m;
+    static String test, m;
     static Scanner sc = new Scanner(System.in);
     
     static int getSubNum() {
